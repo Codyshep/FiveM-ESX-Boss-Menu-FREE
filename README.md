@@ -1,5 +1,4 @@
-## NOTE
-# FINALLY FINISHED YAYY!
+## NOTE: ITS FINALLY FINISHED YAYY!
 https://discord.gg/gtadev for support.
 
 ### Dependency's 
